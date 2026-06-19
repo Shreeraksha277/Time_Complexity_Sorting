@@ -7,7 +7,7 @@ Selection Sort   O(n²)          O(n²)             O(n²)
 Insertion Sort   O(n)           O(n²)             O(n²)
 Merge Sort       O(n log n)     O(n log n)        O(n log n)
 Quick Sort       O(n log n)     O(n log n)        O(n²)
-
+ 
 Notes:
 1. Merge Sort is the most suitable sorting algorithm for Linked Lists.
 2. Merge Sort has O(n log n) time complexity in best, average, and worst cases.
