@@ -12,5 +12,5 @@ Notes:
 1. Merge Sort is the most suitable sorting algorithm for Linked Lists.
 2. Merge Sort has O(n log n) time complexity in best, average, and worst cases.
 3. Insertion Sort is efficient for small or nearly sorted linked lists.
-4. Quick Sort may degrade to O(n²) in the worst case.
+4. Quick Sort may degrade to O(n²) in the worst case. 
 
